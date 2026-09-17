@@ -1,0 +1,14 @@
+{
+  root = {
+    members = {
+      "root",
+    },
+    gid = 0,
+  },
+  wheel = {
+    members = {
+      "root",
+    },
+    gid = 10,
+  },
+}

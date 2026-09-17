@@ -1,0 +1,1 @@
+return {{name = "core", url = "https://raw.githubusercontent.com/DarThunder/iDar-Pacman-DB/refs/heads/main/registry.lua", checksum = "https://raw.githubusercontent.com/DarThunder/iDar-Pacman-DB/refs/heads/main/registry.sum"}}

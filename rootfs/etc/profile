@@ -1,0 +1,7 @@
+# /etc/profile - iDar OS Global System Profile
+export PATH="/bin:/sbin"
+export EDITOR="vi"
+export PAGER="cat"
+export SHELL="/bin/dsh"
+export TERM="xterm-256color"
+export PS1="[\u@\h \w]\$ "
